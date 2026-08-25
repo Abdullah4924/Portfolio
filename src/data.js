@@ -6,7 +6,7 @@
    ============================================================ */
 
 const DATA = {
-  name: "Your Name",
+  name: "Abdullah Ansari",
   role: "Cloud Engineer",
   tagline: "I design and operate cloud infrastructure that stays up, scales cleanly, and costs less than the last person's version.",
   location: "Mumbai, IN",
@@ -26,8 +26,8 @@ const DATA = {
   ],
 
   stats: [
-    { number: "6+", label: "years in cloud" },
-    { number: "40+", label: "systems deployed" },
+    { number: "1.5+", label: "years in cloud" },
+    { number: "15+", label: "systems deployed" },
     { number: "99.95%", label: "avg. uptime" },
     { number: "35%", label: "avg. cost reduction" }
   ],
@@ -37,18 +37,18 @@ const DATA = {
       category: "Compute & containers",
       tag: "01",
       items: [
-        { name: "AWS (EC2, ECS, Lambda)", level: 92 },
-        { name: "Kubernetes", level: 85 },
-        { name: "Docker", level: 90 }
+        { name: "AWS (EC2, ECS, Lambda)", level: 80 },
+        { name: "Kubernetes", level: 60 },
+        { name: "Docker", level: 70 }
       ]
     },
     {
       category: "Infrastructure as code",
       tag: "02",
       items: [
-        { name: "Terraform", level: 90 },
-        { name: "CloudFormation", level: 75 },
-        { name: "Ansible", level: 70 }
+        { name: "Terraform", level: 75 },
+        { name: "CloudFormation", level: 60 },
+        { name: "Ansible", level: 50 }
       ]
     },
     {
@@ -143,9 +143,9 @@ const DATA = {
   ],
 
   contact: {
-    email: "you@example.com",
-    github: "https://github.com/yourhandle",
-    linkedin: "https://linkedin.com/in/yourhandle",
+    email: "abdullah.96730@gmail.com",
+    github: "https://github.com/Abdullah4924",
+    linkedin: "https://linkedin.com/in/abdullah-ansari-0b6921243/",
     resume: "#" // link to a hosted PDF resume, or "#" to hide the line
   }
 };
