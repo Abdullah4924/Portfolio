@@ -21,8 +21,11 @@ const DATA = {
   ],
 
   about: [
-    "I'm a cloud engineer focused on building infrastructure that other engineers can trust: predictable deploys, clear alerts, and systems that fail loudly instead of silently. Most of my work sits across AWS, infrastructure-as-code, and the CI/CD pipelines that connect the two.",
-    "Outside of shipping infrastructure, I spend time on cost optimization and reliability reviews — the unglamorous work that keeps a platform healthy long after launch day."
+    "Cloud Engineer with 1.5+ years of experience in cloud operations, infrastructure support, backup and recovery environments, virtualization, and technical troubleshooting. Hands-on exposure to Windows and Linux environments, system administration tasks, and cloud technologies."
+
+	"Currently focusing on building strong DevOps skills through hands-on learning and lab practice in Linux, Git, GitHub, Python scripting, Docker, Kubernetes, Jenkins, Terraform, Ansible, CI/CD concepts, cloud platforms, automation, and Infrastructure as Code (IaC)."
+
+	"Interested in DevOps engineering, cloud infrastructure, automation, containerization, and scalable deployment practices. Continuously improving technical skills through self-learning, projects, and practical environments while expanding knowledge in modern DevOps workflows.",
   ],
 
   stats: [
@@ -80,10 +83,10 @@ const DATA = {
 
   experience: [
     {
-      version: "v4.0",
-      role: "Senior Cloud Engineer",
-      company: "Your Company",
-      date: "2023 — Present",
+     
+      role: "Cloud Engineer",
+      company: "Multilink Systems Pvt Ltd",
+      date: "2024 — Present",
       description: "Own the cloud platform end to end: architecture decisions, cost, and reliability.",
       bullets: [
         "Led migration from monolith to containerized microservices on EKS",
@@ -91,30 +94,6 @@ const DATA = {
         "Built the org's first standardized Terraform module library"
       ],
       stack: ["AWS", "Terraform", "Kubernetes", "GitHub Actions"]
-    },
-    {
-      version: "v3.0",
-      role: "Cloud Engineer",
-      company: "Previous Company",
-      date: "2021 — 2023",
-      description: "Built and maintained CI/CD pipelines and infrastructure for a multi-region product.",
-      bullets: [
-        "Designed a blue/green deployment pipeline that cut release downtime to zero",
-        "Implemented centralized logging and alerting across 20+ services"
-      ],
-      stack: ["AWS", "Docker", "Jenkins", "Prometheus"]
-    },
-    {
-      version: "v2.0",
-      role: "DevOps Engineer",
-      company: "Earlier Company",
-      date: "2019 — 2021",
-      description: "Supported infrastructure automation and on-call operations for a growing platform team.",
-      bullets: [
-        "Automated environment provisioning, reducing setup time from days to hours",
-        "Rotated on-call, driving mean time to resolution down quarter over quarter"
-      ],
-      stack: ["AWS", "Ansible", "Bash"]
     }
   ],
 
