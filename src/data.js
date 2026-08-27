@@ -21,11 +21,9 @@ const DATA = {
   ],
 
   about: [
-    "Cloud Engineer with 1.5+ years of experience in cloud operations, infrastructure support, backup and recovery environments, virtualization, and technical troubleshooting. Hands-on exposure to Windows and Linux environments, system administration tasks, and cloud technologies."
-
-	"Currently focusing on building strong DevOps skills through hands-on learning and lab practice in Linux, Git, GitHub, Python scripting, Docker, Kubernetes, Jenkins, Terraform, Ansible, CI/CD concepts, cloud platforms, automation, and Infrastructure as Code (IaC)."
-
-	"Interested in DevOps engineering, cloud infrastructure, automation, containerization, and scalable deployment practices. Continuously improving technical skills through self-learning, projects, and practical environments while expanding knowledge in modern DevOps workflows.",
+    "Cloud Engineer with 1.5+ years of experience in cloud operations, infrastructure support, backup and recovery environments, virtualization, and technical troubleshooting. Hands-on exposure to Windows and Linux environments, system administration tasks, and cloud technologies.",
+	"Currently focusing on building strong DevOps skills through hands-on learning and lab practice in Linux, Git, GitHub, Python scripting, Docker, Kubernetes, Jenkins, Terraform, Ansible, CI/CD concepts, cloud platforms, automation, and Infrastructure as Code (IaC).",
+	"Interested in DevOps engineering, cloud infrastructure, automation, containerization, and scalable deployment practices. Continuously improving technical skills through self-learning, projects, and practical environments while expanding knowledge in modern DevOps workflows."
   ],
 
   stats: [
