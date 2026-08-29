@@ -12,7 +12,7 @@ const DATA = {
   location: "Mumbai, IN",
   timezone: "IST (UTC+5:30)",
   availability: "Open to opportunities",
-  careerStartYear: 2019, // used to auto-calculate "years of experience"
+  careerStartYear: 2024, // used to auto-calculate "years of experience"
 
   status: [
     { label: "region", value: "ap-south-1" },
